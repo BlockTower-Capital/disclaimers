@@ -6,7 +6,7 @@ The description herein of the approach of BlockTower Capital Advisors LP (the â€
 
 As used in this presentation, references to "BlockTower Credit", the "BlockTower Credit Fund" or the "Funds" refers to the mini-master fund structure of (i) BlockTower Credit Partners, LP, a Cayman Islands exempted limited partnership and master fund in the BlockTower Credit Fund structure; (ii) BlockTower Credit Partners Offshore, LP, a Cayman Islands exempted limited partnership and feeder fund (primarily for Non-U.S. and Tax-Exempt investors) in the BlockTower Credit Fund structure; (iii) BlockTower Credit Blocker (KY), Ltd., a Cayman Islands exempted company and Non-ECI investment blocker for the feeder fund in the BlockTower Credit Fund structure; and (iv) BlockTower Credit Blocker (US), LLC, a Delaware limited liability company and ECI investment blocker for the feeder fund in the BlockTower Credit Fund structure.
 
-FORWARD LOOKING STATEMENTS/PROJECTIONS
+**FORWARD LOOKING STATEMENTS/PROJECTIONS**
 
 Any projections, forecasts and estimates contained in this document are necessarily speculative in nature and are based upon certain assumptions. In addition, matters they describe are subject to known (and unknown) risks, uncertainties and other unpredictable factors, many of which are beyond the Fundsâ€™ control. No representations or warranties are made as to the accuracy of such forward-looking statements. It can be expected that some or all of such forward-looking assumptions will not materialize or will vary significantly from actual results. Accordingly, any projections are only estimates and actual results will differ and may vary substantially from the projections or estimates shown.
 
