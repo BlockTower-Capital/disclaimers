@@ -83,27 +83,52 @@ However, the degree of reinvestment risk depends on the broader economic climate
 
 ### Treasury Bill Inflation Risk
 Treasury Bill Inflation Risk refers to the risk that the returns from the treasury bills may not keep up with inflation, resulting in a decrease in the real purchasing power of the income from these investments.  In other words, even if the investment in treasury bills is safe in nominal terms, the real value of the return could be eroded by inflation.
+
 For instance, if the treasury bills are yielding a two percent (2%) return, but inflation is running at three percent (3%), the real return on the investment is effectively negative one percent (-1%).  Over time, this could lead to a significant reduction in purchasing power.  This is especially relevant when investing in low-yield securities like treasury bills, as their returns are more likely to be outpaced by inflation.
+
 In periods of high inflation, the nominal returns on treasury bills may not be sufficient to maintain the purchasing power of the capital invested.  Therefore, even though the treasury bills are considered a low-risk investment, the inflation risk could lead to a loss in real terms.
+
 The Client should be aware of inflation trends and consider the potential impact of inflation on the Account.  The Client may be required to periodically modify the Account’s investment guidelines in order to effectively manage this risk.
-Treasury Bill Credit Risk.  Treasury Bill Credit Risk refers to the risk that the issuer of a security, in this case, the U.S. Government, will default on its obligation to repay principal or pay interest.  U.S. Treasury Bills are backed by the full faith and credit of the U.S. government, which has historically made them one of the safest investments in terms of credit risk.
+
+### Treasury Bill Credit Risk
+Treasury Bill Credit Risk refers to the risk that the issuer of a security, in this case, the U.S. Government, will default on its obligation to repay principal or pay interest.  U.S. Treasury Bills are backed by the full faith and credit of the U.S. government, which has historically made them one of the safest investments in terms of credit risk.
+
 However, that does not mean they are entirely without credit risk.  In theory, severe financial or political crises could increase the risk of the U.S. government defaulting on its debt obligations.  For instance, during periods of political gridlock, the U.S. government has come close to a debt ceiling breach, which if not resolved could lead to a default scenario.
+
 While the likelihood of such a default is extremely low, it is not zero.  In the event of a default, the value of U.S. Treasury Bills could decrease significantly, leading to potential losses for the Account.
+
 Therefore, even though the credit risk associated with U.S. Treasury Bills is minimal, it is important to monitor the fiscal and political situation in the U.S. to assess any potential changes to this risk.  This includes keeping track of the U.S. government's credit rating, fiscal policies, and the political climate, especially around times of debt ceiling negotiations.
-Treasury Bill Liquidity Risk.  Treasury Bill Liquidity Risk refers to the risk that the Account may not be able to quickly sell its holdings of Treasury Bills without suffering a loss in value.  Under normal market conditions, U.S. Treasury Bills are considered highly liquid due to their strong demand, standardized features, and the large, active market in which they trade.
+
+### Treasury Bill Liquidity Risk
+Treasury Bill Liquidity Risk refers to the risk that the Account may not be able to quickly sell its holdings of Treasury Bills without suffering a loss in value.  Under normal market conditions, U.S. Treasury Bills are considered highly liquid due to their strong demand, standardized features, and the large, active market in which they trade.
+
 However, in certain abnormal market conditions, such as during periods of significant financial distress or market dislocation, the liquidity of T-bills could diminish.  This could occur if a large number of investors simultaneously attempt to sell their holdings, causing supply to outstrip demand.  In such a scenario, the Account may be unable to sell its treasury bills without accepting a lower price, which could lead to losses.
+
 It's also worth noting that while the liquidity of treasury bills is generally high, it can vary based on the specific maturity of the treasury bill.  For instance, treasury bills with less common maturities may be less liquid than those with more standard maturities.
-Treasury Bill Market Risk.  Treasury Bill Market Risk refers to the risk that the value of the treasury bills could decrease due to changes in the broader market.  While treasury bills are less volatile than many other types of securities, they are not immune to market risk.  Various factors can influence the overall market, leading to fluctuations in the price and yield of treasury bills.
+
+### Treasury Bill Market Risk
+Treasury Bill Market Risk refers to the risk that the value of the treasury bills could decrease due to changes in the broader market.  While treasury bills are less volatile than many other types of securities, they are not immune to market risk.  Various factors can influence the overall market, leading to fluctuations in the price and yield of treasury bills.
+
 Economic indicators, such as changes in GDP growth, unemployment rates, consumer confidence, and business investment, can influence market perceptions about the future course of interest rates, which can in turn affect the value of treasury bills.
 Moreover, geopolitical events, such as wars, terrorism, political instability, trade disputes, or unexpected election results, can create uncertainty in the market and can potentially affect the value of treasury bills.  Natural disasters or public health crises, which can have significant economic impacts, are also sources of market risk.
-Treasury Bill Operational Risk.  Treasury Bill Operational Risk refers to the risk that potential losses may result from inadequate or failed internal processes, people, and systems, or from external events.  This includes a wide range of risks such as transactional errors, system failures, fraud, or any event that disrupts the normal functioning of the account.
+
+### Treasury Bill Operational Risk
+Treasury Bill Operational Risk refers to the risk that potential losses may result from inadequate or failed internal processes, people, and systems, or from external events.  This includes a wide range of risks such as transactional errors, system failures, fraud, or any event that disrupts the normal functioning of the account.
 For instance, errors in executing transactions, such as buying or selling the wrong quantity of treasury bills, could lead to financial losses.  Similarly, failures in the Account’s systems, such as issues with its trading platform or risk management software, could hinder its ability to effectively manage its treasury bill holdings.  Fraud, either internal or external, could also lead to losses.
+
 External events that could lead to operational risk include natural disasters that disrupt the Account's operations, changes in laws or regulations that affect its ability to operate, or a significant event at a third-party service provider, such as a custodian or a broker, that impacts its ability to service the Account.
 Operational risks can be managed through strong internal controls, regular audits, robust systems and procedures, disaster recovery planning, and diligent oversight of third-party service providers.  However, it's important to note that not all operational risks can be predicted or controlled, and there is always a degree of residual risk that must be accepted.
-Treasury Bill Regulatory Risk.  Treasury Bill Regulatory Risk refers to the risk that changes in laws or regulations may affect the value, operation, or profitability of the treasury bills in the Account.  Regulatory changes can come from various sources, including Congress, government agencies, or regulatory bodies like the Securities and Exchange Commission or the Federal Reserve.
+
+### Treasury Bill Regulatory Risk
+Treasury Bill Regulatory Risk refers to the risk that changes in laws or regulations may affect the value, operation, or profitability of the treasury bills in the Account.  Regulatory changes can come from various sources, including Congress, government agencies, or regulatory bodies like the Securities and Exchange Commission or the Federal Reserve.
+
 For example, changes in tax laws could affect the after-tax returns from treasury bills.  Similarly, new regulations pertaining to the purchase, sale, or holding of treasury bills could impact the Account's ability to invest in these securities or could increase the costs associated with these investments.
+
 Additionally, regulatory changes could affect the broader economic environment, which in turn could influence interest rates and the value of treasury bills.  For example, changes in banking regulations or monetary policy could affect market interest rates, which could then impact the yields on treasury bills.
-Treasury Bill Counterparty Risk.  Counterparty risk refers to the risk that a party to a financial transaction will not fulfill their obligations.  For instance, when purchasing treasury bills, the counterparty is typically a broker or dealer.  If this entity fails to deliver the treasury bills after the Account has paid for them, this would be a form of counterparty risk.
+
+### Treasury Bill Counterparty Risk
+Counterparty risk refers to the risk that a party to a financial transaction will not fulfill their obligations.  For instance, when purchasing treasury bills, the counterparty is typically a broker or dealer.  If this entity fails to deliver the treasury bills after the Account has paid for them, this would be a form of counterparty risk.
+
 Similarly, the Account will use a custodian to hold its treasury bills.  If the custodian faces financial or operational difficulties, it could affect the Account's ability to access its treasury bills.  This could be particularly damaging if the Account needs to sell its treasury bills quickly to make distributions or to take advantage of an investment opportunity.
+
 While the counterparty risk associated with treasury bills is generally low due to the highly regulated and standardized nature of these transactions, it can increase in times of economic stress or market turmoil.  For example, during the 2008 financial crisis, the failure of major financial institutions led to significant counterparty risk.
-![image](https://github.com/BlockTower-Capital/disclaimers/assets/87573833/331cb336-3e9b-4491-a199-a2f81a0d7803)
